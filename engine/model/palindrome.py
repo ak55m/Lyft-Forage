@@ -13,4 +13,4 @@ class Palindrome(SternmanEngine):
             return True
         else:
             return False
-y
+
